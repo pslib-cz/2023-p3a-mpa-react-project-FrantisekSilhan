@@ -1,8 +1,8 @@
-# Název mého projektu, programu, hry...
+# Dostihy a sázky
 
 ## Téma
 
-Tady bude krátký a úderný popis o účelu, významu, funkcionalitě...
+Jedná se o Dostihy a sázky.
 
 ## Odkazy pro vývoj
 
